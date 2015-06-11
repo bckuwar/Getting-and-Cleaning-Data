@@ -34,6 +34,3 @@ This file contains the transformed tidy data.
 This file describes the variables and data in file "tidyData.txt".  
 
 
-* Modify README.md to 
-
-
