@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 ## Introduction:    
-This repo was created for the course project of Getting and Cleaning Data module of Data Science specialization series offered by the Johns Hopkins University.  The assignment checks the student's ability to download, transform and create new tidy data sets.  
+This repo was created for the course project of Getting and Cleaning Data module of Data Science specialization series offered by the Johns Hopkins University.  The assignment checks the student ability to download, transform and create new tidy data sets.  
 
 Here are the links to the original data source:  
  **Data Set Information**:   
