@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 ## Introduction:    
-This repository was created for the course project of Getting and Cleaning Data module of Data Science specialization series offered by the Johns Hopkins University.  The assignment checks the student's ability to download, transform and create new tidy data sets.  
+This repo was created for the course project of Getting and Cleaning Data module of Data Science specialization series offered by the Johns Hopkins University.  The assignment checks the student's ability to download, transform and create new tidy data sets.  
 
 Here are the links to the original data source:  
  **Data Set Information**:   
@@ -9,8 +9,7 @@ Here are the links to the original data source:
 **Actual Data**:   
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)   
 
-## Project Work:    
-**The following files were generated**:  
+## Repo Contents:    
 
 ###run_analysis.R
 It includes R code to download files, transform data and to create a new tidy data set.     
