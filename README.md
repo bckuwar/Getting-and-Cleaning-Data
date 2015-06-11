@@ -10,7 +10,10 @@ Here are the links to the original data source:
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)   
 
 ## Project Work:    
-The code to download file, transform data and create new tidy data set is include in file "run_analysis.R".     
+**The following files were generated**:  
+
+###run_analysis.R
+It includes R code to download files, transform data and to create a new tidy data set.     
 Here are the steps:
 * Download files from the original source and load into R data frame objects
 * Merge --train-- and --test-- data for Subject, Activities and Data (measurements)  
@@ -24,7 +27,14 @@ Here are the steps:
 * Merge Subject, Activity and Data data frames  
 * Create new tidy data frame containing average values of all variables by subject and activity
 * Write tidy data frame to file "tidyData.txt" 
-* Create codebook "CodeBook.md" for data file "tidyData.txt"
+
+###tidyData.txt
+This file contains the transformed tidy data.
+
+###CodeBook.md
+This file describes the variables and data in file "tidyData.txt".  
+
+
 * Modify README.md to 
 
 
