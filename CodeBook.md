@@ -22,7 +22,7 @@ Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algori
   * Data Type = Character 	
   * Values = WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-**All remaining variables below are numeric and they represent measurements from accelerometer and gyroscope, which is averaged for each subject and activity. The following abbreviation map could be used to interpret the variables below:**
+All remaining variables below are numeric and they represent measurements from accelerometer and gyroscope, which is averaged for each subject and activity. The following abbreviation map could be used to interpret the variables below:  
 t –> Time Domain; f –> Frequency Domain; Acc –> Accelerometer Data; Gyro –> Gyroscope Data; Body –> Body Data; Gravity –> Gravity Data; Jerk –> Jerk Data; Mag –> Magnitude; X, Y, Z –> Measurements along X, Y & Z axis
 
 * **tBodyAcc-Mean-X-Mean** 
@@ -59,34 +59,34 @@ t –> Time Domain; f –> Frequency Domain; Acc –> Accelerometer Data; Gyro �
 * **tBodyAccMag-StdDev-Mean** 
 * **tGravityAccMag-Mean-Mean** 
 * **tGravityAccMag-StdDev-Mean** 
-* **tBodyAccJerkMag-Mean-Mean **
-* **tBodyAccJerkMag-StdDev-Mean **
-* **tBodyGyroMag-Mean-Mean **
-* **tBodyGyroMag-StdDev-Mean **
-* **tBodyGyroJerkMag-Mean-Mean **
-* **tBodyGyroJerkMag-StdDev-Mean **
-* **fBodyAcc-Mean-X-Mean **
-* **fBodyAcc-Mean-Y-Mean **
-* **fBodyAcc-Mean-Z-Mean **
-* **fBodyAcc-StdDev-X-Mean **
-* **fBodyAcc-StdDev-Y-Mean **
-* **fBodyAcc-StdDev-Z-Mean **
-* **fBodyAccJerk-Mean-X-Mean **
-* **fBodyAccJerk-Mean-Y-Mean **
-* **fBodyAccJerk-Mean-Z-Mean **
-* **fBodyAccJerk-StdDev-X-Mean **
-* **fBodyAccJerk-StdDev-Y-Mean **
-* **fBodyAccJerk-StdDev-Z-Mean **
-* **fBodyGyro-Mean-X-Mean **
-* **fBodyGyro-Mean-Y-Mean **
-* **fBodyGyro-Mean-Z-Mean **
-* **fBodyGyro-StdDev-X-Mean **
-* **fBodyGyro-StdDev-Y-Mean **
-* **fBodyGyro-StdDev-Z-Mean **
-* **fBodyAccMag-Mean-Mean **
-* **fBodyAccMag-StdDev-Mean **
-* **fBodyAccJerkMag-Mean-Mean **
-* **fBodyAccJerkMag-StdDev-Mean **
+* **tBodyAccJerkMag-Mean-Mean**
+* **tBodyAccJerkMag-StdDev-Mean**
+* **tBodyGyroMag-Mean-Mean**
+* **tBodyGyroMag-StdDev-Mean**
+* **tBodyGyroJerkMag-Mean-Mean**
+* **tBodyGyroJerkMag-StdDev-Mean**
+* **fBodyAcc-Mean-X-Mean**
+* **fBodyAcc-Mean-Y-Mean**
+* **fBodyAcc-Mean-Z-Mean**
+* **fBodyAcc-StdDev-X-Mean**
+* **fBodyAcc-StdDev-Y-Mean**
+* **fBodyAcc-StdDev-Z-Mean**
+* **fBodyAccJerk-Mean-X-Mean**
+* **fBodyAccJerk-Mean-Y-Mean**
+* **fBodyAccJerk-Mean-Z-Mean**
+* **fBodyAccJerk-StdDev-X-Mean**
+* **fBodyAccJerk-StdDev-Y-Mean**
+* **fBodyAccJerk-StdDev-Z-Mean**
+* **fBodyGyro-Mean-X-Mean**
+* **fBodyGyro-Mean-Y-Mean**
+* **fBodyGyro-Mean-Z-Mean**
+* **fBodyGyro-StdDev-X-Mean**
+* **fBodyGyro-StdDev-Y-Mean**
+* **fBodyGyro-StdDev-Z-Mean**
+* **fBodyAccMag-Mean-Mean**
+* **fBodyAccMag-StdDev-Mean**
+* **fBodyAccJerkMag-Mean-Mean**
+* **fBodyAccJerkMag-StdDev-Mean**
 * **fBodyGyroMag-Mean-Mean**
 * **fBodyGyroMag-StdDev-Mean** 
 * **fBodyGyroJerkMag-Mean-Mean** 
