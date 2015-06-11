@@ -2,13 +2,14 @@
 
 # Introduction:
 This codebook describes the data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:
-Data Information: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.  
-Actual Data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+ Data Set Information: 
+ [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  
+Actual Data: 
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
-Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algorithm for their wearable fitness gadgets. This data set contains human activity measurements from Samsung Galaxy S smartphone. 
-Please refer to link above for more information.  
+Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algorithm for their wearable fitness gadgets. The original data set contains human activity measurements from Samsung Galaxy S smartphone (please refer to link above for more information). The new tidy data set is a subset of the original and contains only the mean and standard deviation measurements, which was then averaged for each subject and activity combination.  
 
-Key Characteristics of “tidyData.txt”:
+## Key Characteristics
 * **Data Characteristics**:  Multi-variate, Axial
 * **Number of Instances**: 180
 * **Number of Attributes**:  68
