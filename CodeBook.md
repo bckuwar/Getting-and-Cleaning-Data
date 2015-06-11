@@ -1,11 +1,11 @@
 #Codebook for Tidy Data Set Created for Course Project
 
 # Introduction:
-This codebook describes the data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:
- Data Set Information: 
- [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  
-Actual Data: 
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+This codebook describes the data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:  
+ Data Set Information:   
+ [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).   
+Actual Data:   
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)   
 
 Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algorithm for their wearable fitness gadgets. The original data set contains human activity measurements from Samsung Galaxy S smartphone (please refer to link above for more information). The new tidy data set is a subset of the original and contains only the mean and standard deviation measurements, which was then averaged for each subject and activity combination.  
 
@@ -15,17 +15,17 @@ Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algori
 * **Number of Attributes**:  68
 
 ## Data Dictionary:
-* Subject (Identifier for subject performing the activity)
+* **Subject** (Identifier for subject performing the activity)
   * Data Type = Integer
   * Values = 1:30  
-* Activity
+* **Activity**
   * Data Type = Character 	
   * Values = WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 **All remaining variables below are numeric and they represent measurements from accelerometer and gyroscope, which is averaged for each subject and activity. The following abbreviation map could be used to interpret the variables below:**
 t –> Time Domain; f –> Frequency Domain; Acc –> Accelerometer Data; Gyro –> Gyroscope Data; Body –> Body Data; Gravity –> Gravity Data; Jerk –> Jerk Data; Mag –> Magnitude; X, Y, Z –> Measurements along X, Y & Z axis
 
-* tBodyAcc-Mean-X-Mean 
+* **tBodyAcc-Mean-X-Mean 
 * tBodyAcc-Mean-Y-Mean 
 * tBodyAcc-Mean-Z-Mean 
 * tBodyAcc-StdDev-X-Mean 
@@ -87,7 +87,7 @@ t –> Time Domain; f –> Frequency Domain; Acc –> Accelerometer Data; Gyro �
 * fBodyAccMag-StdDev-Mean 
 * fBodyAccJerkMag-Mean-Mean 
 * fBodyAccJerkMag-StdDev-Mean 
-* fBodyGyroMag-Mean-Mean 
+* fBodyGyroMag-Mean-Mean** 
 * fBodyGyroMag-StdDev-Mean 
 * fBodyGyroJerkMag-Mean-Mean 
 * fBodyGyroJerkMag-StdDev-Mean
