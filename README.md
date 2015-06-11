@@ -16,10 +16,10 @@ It includes R code to download files, transform data and to create a new tidy da
 Steps involved:
 * Download files from the original source and load into R data frame objects
 * Merge *train* and *test* data for Subject, Activities and Data (measurements)  
-* Transform data:
+* Transform Data:
   * Transform "Data" data frame
-    * Assigning labels to variables 
-    * Filtering only mean and standard deviation data
+    * Assign labels to variables 
+    * Filter in only mean and standard deviation attributes
     * Clean up label names
   * Transform "Activity" data frame
     * Replace activity number with descriptive activity name  
