@@ -1,7 +1,7 @@
 #Codebook for Tidy Data Set Created for Course Project
 
 # Introduction:
-This codebook describes the data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:  
+This codebook describes data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:  
  **Data Set Information**:   
  [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).   
 **Actual Data**:   
@@ -23,7 +23,7 @@ Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algori
   * Values = WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 All remaining variables below are numeric and they represent measurements from accelerometer and gyroscope, which is averaged for each subject and activity. The following abbreviation map could be used to interpret the variables below:  
-t –> Time Domain; f –> Frequency Domain; Acc –> Accelerometer Data; Gyro –> Gyroscope Data; Body –> Body Data; Gravity –> Gravity Data; Jerk –> Jerk Data; Mag –> Magnitude; X, Y, Z –> Measurements along X, Y & Z axis
+t–>Time Domain; f–>Frequency Domain; Acc–>Accelerometer Data; Gyro–>Gyroscope Data; Body–>Body Data; Gravity–>Gravity Data; Jerk–>Jerk Data; Mag–>Magnitude; X, Y, Z–>Measurements along X, Y & Z axis
 
 * **tBodyAcc-Mean-X-Mean** 
 * **tBodyAcc-Mean-Y-Mean** 
