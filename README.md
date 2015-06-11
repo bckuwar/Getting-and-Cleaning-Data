@@ -15,14 +15,14 @@ Here are the links to the original data source:
 It includes R code to download files, transform data and to create a new tidy data set.     
 Here are the steps:
 * Download files from the original source and load into R data frame objects
-* Merge --train-- and --test-- data for Subject, Activities and Data (measurements)  
+* Merge *train* and *test* data for Subject, Activities and Data (measurements)  
 * Transform data:
   * Transform "Data" data frame
-    * Assigning labels to variable 
-    * Filtering only mean and std dev attributes in Measurement data frame
+    * Assigning labels to variables 
+    * Filtering only mean and standard deviation data
     * Clean up label names
   * Transform "Activity" data frame
-    * Using descriptive activity name in the Activity data frame  
+    * Replace activity number with descriptive activity name  
 * Merge Subject, Activity and Data data frames  
 * Create new tidy data frame containing average values of all variables by subject and activity
 * Write tidy data frame to file "tidyData.txt" 
