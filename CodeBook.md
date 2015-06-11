@@ -1,4 +1,4 @@
-#Codebook for Human Activity Recognition Using Smartphone Data Set
+#Codebook for Tidy Data Set Created for Course Project
 
 # Introduction:
 This codebook describes the data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:
@@ -9,9 +9,9 @@ Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algori
 Please refer to link above for more information.  
 
 Key Characteristics of “tidyData.txt”:
-* Data Characteristics:  Multi-variate, Axial
-* Number of Instances: 180
-* Number of Attributes:  68
+* **Data Characteristics**:  Multi-variate, Axial
+* **Number of Instances**: 180
+* **Number of Attributes**:  68
 
 ## Data Dictionary:
 * Subject (Identifier for subject performing the activity)
@@ -21,16 +21,8 @@ Key Characteristics of “tidyData.txt”:
   * Data Type = Character 	
   * Values = WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-### All remaining variables below are numeric and they represent measurements from accelerometer and gyroscope, which is averaged for each subject and activity. The following abbreviation map could be used to interpret the variables below:  
-* t – Time Domain 
-* f – Frequency Domain
-* Acc – Accelerometer Data 
-* Gyro – Gyroscope Data 
-* Body – Body Data 
-* Gravity – Gravity Data 
-* Jerk – Jerk Data 
-* Mag – Magnitude 
-* X, Y, Z – Measurements along X, Y & Z axis
+**All remaining variables below are numeric and they represent measurements from accelerometer and gyroscope, which is averaged for each subject and activity. The following abbreviation map could be used to interpret the variables below:**
+t –> Time Domain; f –> Frequency Domain; Acc –> Accelerometer Data; Gyro –> Gyroscope Data; Body –> Body Data; Gravity –> Gravity Data; Jerk –> Jerk Data; Mag –> Magnitude; X, Y, Z –> Measurements along X, Y & Z axis
 
 * tBodyAcc-Mean-X-Mean 
 * tBodyAcc-Mean-Y-Mean 
