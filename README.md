@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 ## Introduction:    
-This repo was created for the course project of Getting and Cleaning Data module of Data Science specialization series offered by the Johns Hopkins University.  The assignment checks the student ability to download, transform and create new tidy data sets.  
+This repo was created for Getting and Cleaning Data course project. The assignment checks the student ability to download, transform and create new tidy data sets.  
 
 Here are the links to the original data source:  
  **Data Set Information**:   
@@ -13,7 +13,7 @@ Here are the links to the original data source:
 
 ###run_analysis.R
 It includes R code to download files, transform data and to create a new tidy data set.     
-Here are the steps:
+Steps involved:
 * Download files from the original source and load into R data frame objects
 * Merge *train* and *test* data for Subject, Activities and Data (measurements)  
 * Transform data:
