@@ -9,6 +9,13 @@ This codebook describes data file “tidyData.txt” that was generated from dat
 
 Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algorithm for their wearable fitness gadgets. The original data set contains human activity measurements from Samsung Galaxy S smartphone (please refer to link above for more information). The new tidy data set is a subset of the original and contains only the mean and standard deviation measurements, which was then averaged for each subject and activity combination.  
 
+## Data Transformation Activities:
+* Assign labels to data variables 
+* Filter in only mean and standard deviation data variables
+* Clean up label names
+* Replace activity number with descriptive activity name  
+* Average all data variables by subject and activity
+
 ## Key Characteristics:
 * **Data Characteristics**:  Multi-variate, Axial
 * **Number of Instances**: 180
