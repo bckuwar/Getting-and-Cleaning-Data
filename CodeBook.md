@@ -1,4 +1,4 @@
-#Codebook for Tidy Data Set Created for Course Project
+#Codebook for Tidy Data Set Created for the Course Project
 
 # Introduction:
 This codebook describes data file “tidyData.txt” that was generated from data obtained from UCI Machine Learning Repository.  Here are the links to the source:  
@@ -9,7 +9,7 @@ This codebook describes data file “tidyData.txt” that was generated from dat
 
 Companies like Nike, Fitbit and Jawbone Up are racing to develop advanced algorithm for their wearable fitness gadgets. The original data set contains human activity measurements from Samsung Galaxy S smartphone (please refer to link above for more information). The new tidy data set is a subset of the original and contains only the mean and standard deviation measurements, which was then averaged for each subject and activity combination.  
 
-## Key Characteristics
+## Key Characteristics:
 * **Data Characteristics**:  Multi-variate, Axial
 * **Number of Instances**: 180
 * **Number of Attributes**:  68
